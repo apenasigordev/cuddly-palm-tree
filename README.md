@@ -1,9 +1,9 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
-<a href="https://github.com/apenasigordev/github-stats">
+<a href="https://github.com/apenasigordev/">
 
-![](https://github.com/apenasigordev/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/apenasigordev/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/apenasigordev/cuddly-palm-tree/blob/master/generated/overview.svg)
+![](https://github.com/apenasigordev/cuddly-palm-tree/blob/master/generated/languages.svg)
 
 </a>
 
